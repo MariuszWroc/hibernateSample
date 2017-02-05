@@ -10,7 +10,6 @@ import java.lang.reflect.ParameterizedType;
 import java.lang.reflect.Type;
 import java.util.List;
 
-
 import org.hibernate.Session;
 import org.hibernate.criterion.Projections;
 import org.slf4j.Logger;
